@@ -1,6 +1,6 @@
 # SiddApp
 
-Sidd is an app where you can create pressable buttons. Sidd is perfect for situations where someone needs to communicate but can't speak. The app's features allow for creating and managing custom button layouts and sequences, tracking usage, and ensuring privacy by keeping all data on the user's device.
+Sidd is an app where you can create pressable buttons. Sidd is perfect for situations where someone needs to communicate, but can't speak. The app's features allow for creating and managing custom button layouts and sequences, tracking usage, and ensuring privacy by keeping all data on the user's device.
 
 ## Features
 
