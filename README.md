@@ -12,6 +12,16 @@ Sidd is an app where you can create pressable buttons. Sidd is perfect for situa
 - **Download Activity Data**: Export activity data to a CSV file for data analysis.
 - **Privacy**: All your data is stored locally on your phone, ensuring no privacy concerns.
 
+## Installation Instructions
+
+1. **Download APK**: Download the APK file from the release page.
+
+2. **Allow Unknown Sources**: Before installing, ensure your device allows installations from unknown sources. Go to `Settings` > `Security` > `Unknown sources` and enable it.
+
+3. **Open APK File**: Use a file manager app to navigate to the downloaded APK file location.
+
+4. **Install the App**: Tap on the downloaded APK file. A prompt will appear asking you to confirm the installation. Review permissions and tap on "Install" to proceed with the installation.
+   
 ## Copyright and License
 
 © 2024 David Choi. All rights reserved.
