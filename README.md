@@ -12,3 +12,60 @@ Sidd is an app where you can create pressable buttons. Sidd is perfect for situa
 - **Download Activity Data**: Export activity data to a CSV file for data analysis.
 - **Privacy**: All your data is stored locally on your phone, ensuring no privacy concerns.
 
+## Copyright and License
+
+© 2024 David Choi. All rights reserved.
+
+This software is provided for personal use only. You may download and use the software on your personal devices. You are not permitted to modify, redistribute, sublicense, or sell copies of the software in any form. Commercial use, derivative works, and redistribution are strictly prohibited.
+
+## Disclaimer
+
+This software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+## Screenshots
+
+Click on the images to view them in full size.
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/notwopr/siddapp/assets/21273266/2cc80b99-1ed0-4cac-8bae-37150a2c6b06">
+          <img src="https://github.com/notwopr/siddapp/assets/21273266/2cc80b99-1ed0-4cac-8bae-37150a2c6b06" width="150" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/notwopr/siddapp/assets/21273266/e7d8483a-8971-4a35-aa0d-7a45d196f75a">
+          <img src="https://github.com/notwopr/siddapp/assets/21273266/e7d8483a-8971-4a35-aa0d-7a45d196f75a" width="150" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/notwopr/siddapp/assets/21273266/a261a772-e95f-48a2-a4ec-d00fdb895c78">
+          <img src="https://github.com/notwopr/siddapp/assets/21273266/a261a772-e95f-48a2-a4ec-d00fdb895c78" width="150" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/notwopr/siddapp/assets/21273266/3cb849b7-f64e-48b2-970d-cb00e319fecb">
+          <img src="https://github.com/notwopr/siddapp/assets/21273266/3cb849b7-f64e-48b2-970d-cb00e319fecb" width="150" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/notwopr/siddapp/assets/21273266/88a428a9-25ad-4ce0-9559-3bf655943cf0">
+          <img src="https://github.com/notwopr/siddapp/assets/21273266/88a428a9-25ad-4ce0-9559-3bf655943cf0" width="150" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/notwopr/siddapp/assets/21273266/2cfe123e-188b-440c-8528-9fc9b4691267">
+          <img src="https://github.com/notwopr/siddapp/assets/21273266/2cfe123e-188b-440c-8528-9fc9b4691267" width="150" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/notwopr/siddapp/assets/21273266/95bcb0b1-c165-4d2c-850e-b2c5ad29dee6">
+          <img src="https://github.com/notwopr/siddapp/assets/21273266/95bcb0b1-c165-4d2c-850e-b2c5ad29dee6" width="150" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
