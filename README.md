@@ -14,6 +14,15 @@ Sidd is an app where you can create pressable buttons. Sidd is perfect for situa
 
 ## Installation Instructions
 
+### iOS
+
+1. Go here: 
+2. Install Test Flight App
+3. Run Test Flight App
+4. Install Sidd App
+
+### Android
+
 1. **Download APK**: Download the APK file from the release page.
 
 2. **Allow Unknown Sources**: Before installing, ensure your device allows installations from unknown sources. Go to `Settings` > `Security` > `Unknown sources` and enable it.
@@ -22,6 +31,11 @@ Sidd is an app where you can create pressable buttons. Sidd is perfect for situa
 
 4. **Install the App**: Tap on the downloaded APK file. A prompt will appear asking you to confirm the installation. Review permissions and tap on "Install" to proceed with the installation.
    
+###  Feedback
+
+Feedback is always welcome and appreciated.  Thank you for helping us build this app!
+
+
 ## Copyright and License
 
 © 2025 David Choi. All rights reserved.
@@ -34,7 +48,7 @@ This software is provided "as is," without warranty of any kind, express or impl
 
 ## Screenshots
 
-Click on the images to view them in full size.
+Click on the images to view them in full size.  (These are screenshots from the Android version)
 
 <div align="center">
   <table>
