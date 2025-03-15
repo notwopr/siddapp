@@ -24,7 +24,7 @@ Sidd is an app where you can create pressable buttons. Sidd is perfect for situa
    
 ## Copyright and License
 
-© 2024 David Choi. All rights reserved.
+© 2025 David Choi. All rights reserved.
 
 This software is provided for personal use only. You may download and use the software on your personal devices. You are not permitted to modify, redistribute, sublicense, or sell copies of the software in any form. Commercial use, derivative works, and redistribution are strictly prohibited.
 
