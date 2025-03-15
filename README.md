@@ -16,7 +16,7 @@ Sidd is an app where you can create pressable buttons. Sidd is perfect for situa
 
 ### iOS
 
-1. Go here: 
+1. Go here: https://testflight.apple.com/join/fD99ZBxk
 2. Install Test Flight App
 3. Run Test Flight App
 4. Install Sidd App
