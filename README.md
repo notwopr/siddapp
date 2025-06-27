@@ -18,7 +18,7 @@ With Sidd, you can create pressable buttons, button maps (layouts of group of bu
 
 ### iOS
 
-1. Go here: https://apps.apple.com/us/app/sidd-app
+1. Go here: https://apps.apple.com/us/app/sidd-app/id6742924524
 2. Install Sidd App
 
 ### Android
