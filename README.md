@@ -18,10 +18,8 @@ With Sidd, you can create pressable buttons, button maps (layouts of group of bu
 
 ### iOS
 
-1. Go here: https://testflight.apple.com/join/fD99ZBxk
-2. Install Test Flight App
-3. Run Test Flight App
-4. Install Sidd App
+1. Go here: https://apps.apple.com/us/app/sidd-app
+2. Install Sidd App
 
 ### Android
 
